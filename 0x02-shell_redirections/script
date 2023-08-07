@@ -5,3 +5,5 @@ read filename
 
 echo "#!/bin/bash" > ${filename}
 chmod +x ${filename}
+
+vi ${filename}
